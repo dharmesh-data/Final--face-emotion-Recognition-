@@ -44,7 +44,7 @@ After that I Trained the model using CNN and the result was better for tht so I 
  
  Since our model gave application error after deployment because of slug size, we also trained a model using CNN which gave an accuracy of 66.47% for train data, and 58.19% on 
 
-Here is link:  https://share.streamlit.io/dharmesh-data/face_emotion_recognition_project/main                                                             
+Here is link:  https://share.streamlit.io/dharmesh-data/final--face-emotion-recognition-/main                                                             
 
 
 # Dependencies
